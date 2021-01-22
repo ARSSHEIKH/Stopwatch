@@ -2,8 +2,8 @@
 
   ##site-url: 
   
-      `https://my-digitalstopwatch.web.app/
-      http://stopwatchapp.surge.sh/`
+      https://my-digitalstopwatch.web.app/
+      http://stopwatchapp.surge.sh/
       
 ### Desktop App :
  #### For Windows:
